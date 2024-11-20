@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cooking-notifications",
+  "private_key_id": "a5b6dc1d594dea0114ac056b16a990ffd039dfc9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDYiRPkrK4ly+kj\nBk+1z+u0g1gwZoKjf0boj+1+2nlSOnLe24nbQeYYEJ7EPTGryoTeSs6M9ujmwFnc\nNGsCN0yVZ7aA+jFw+54+UDKTF+Qj6wLgdg4miV7iailHDo/Puv0TUUwMijIVrLb3\nNEo/bOXIKe21tzw3BcHaBZtH+5m5jvDX+iOYePWqzGu7tzw+rUYMZq86iFvxmUo3\nS9BBad7U1Wti2k3NJsjxQTEcgLPNYdaKytGVLxYQTduHL5d1NSFYcpnOiV7kI1nh\n1cmiGj0MW8YFcSyjEgkXxsqiQGvy+K3vffHOfZSvhJhUS8nkBZ60lDXPHVbMkDkN\nJduekK0rAgMBAAECggEARN50QUraqJLON6GOQJk8slED/4DbE/0rJFSCiNIbvBdy\n6YaRtfajpAvFM0zzO1xSHhFU2Gi/coTDD9JsJmxII0y1MxhgGTst/UusijQTD4lz\nhMiHf6I5V3HEZyEuhDdIvpggw+xAObyRBNbQtpOAEcWkISOCN03RdfJKjP5syiMi\nLPAmBo58Zeql2uN9VcE4xY5aQ62kMM56d3dfLDBYkWxdCHX84YlwMp86/tth1Yko\nhFtqjU/lq3vy2wK1AKalJXc84pWUabmdUqfiP0zWCU+akx5Vl9NTMBv0O1r+MJ7f\n68ewXcVxFjO/ZKso3walgyifnmbCpcItiamnla57AQKBgQD97Vx6ixju6rUNPfJx\nCOXqeM+7jI72hKEvPRy8t6RwhZhc8IUAoDSMs7F8kbGMSLkWq0z06ltxeqjr+CMI\nJXK8rtq/minYmljZNiQJi1E7oJUj9zE06p8qZOZQYXLokMMTv1WtK/zL7k650GJ7\nupwSP9UbHmy2ZUAK/kCtKUUTSwKBgQDaTZPyKzzp29wTaBZXc7JAU31oenD4+P88\n2dX6GIostBWgZHE8+DRjS6rzZiGhPkXU+pxI7xU9YGuG4duUhuJNuAggoU5kQHss\nqRNnRxaPeC9S4P4tlgxz2tPZBv1xKY2U8rRTsuOkNW8uPjfXGb8rjkQnn146XFkI\nCTTZkzzBoQKBgERZ5T/TO2XsZcnnt9/3XjQsSvaYEk+HSf/2OksOP8ROIcI6uAKA\nHUUWhZsbeKhjVvckKzXt86lrNBc4lu11bxodEyLqM4NroKjvaunqx3X+dsbUnjk5\nQpjdyiUu5gh2Fxy0rzJLGeQnBKf90NSvWZ2L8yg2m1rJjGCpKe2yozZbAoGBAIsg\nG+Sfh7+m3fgEQxDS7EwwqWD3f5482jXGwqcUEqNw1cOVn9Fygbiyla1vbolbrZeR\nbB7TOB8Ynw6kTJO47usHGS7qfpJHwfhxfKs6U/d1afuQ5ozY7vC7Cn5rBQSkrdW6\nZBBfltKlN0kqX94XS42PqoHyAFSDXD5R17u+KV9hAoGAYQQqc7GjZyLWXfVx28lP\nzhakRJcG0idrubZ4SYyAEjWXXpbnPedIkwLmQVxy0+95z2AKw7MfqYCEdXlFBmXj\nvSI/eVIj2q1JSJzrCRZWuTk8aTBYKoE7PXpQlhX4M19kflzhT/4W3aWaPrYxk8sQ\nP/FCbxkTT41E6HtFF8BDyWk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-a2z4g@cooking-notifications.iam.gserviceaccount.com",
+  "client_id": "100626586252533909873",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-a2z4g%40cooking-notifications.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
